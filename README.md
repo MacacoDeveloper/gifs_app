@@ -1,4 +1,4 @@
-# GIFs Search App
+# GIFs Search App 🎨 
 Una aplicación web moderna para buscar y compartir GIFs, construida con React y TypeScript.
 
 ## Características 🚀 
